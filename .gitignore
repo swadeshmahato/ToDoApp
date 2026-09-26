@@ -1,0 +1,16 @@
+backend/target/
+backend/.idea/
+backend/*.iml
+
+.vscode/
+
+.env
+*.env
+
+backend/src/main/resources/application-local.properties
+
+*.p12
+*.jks
+
+Thumbs.db
+.DS_Store
